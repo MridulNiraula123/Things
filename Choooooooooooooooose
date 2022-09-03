@@ -1,0 +1,6 @@
+
+Inthebag = {"apple", "banana", "cherry","mango","strawberry","blackberry","dragonfruit","dragon fruit"}
+if str(input("what do u want ")).lower() in Inthebag:
+  print("its avilalable 😁 ")
+else:
+    print("its unavailable ☹😡")
