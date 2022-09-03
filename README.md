@@ -1,4 +1,4 @@
-# Class-Projects
+# Things
 # No Copying By Nirjal
 u can use it anytime
 full permission
