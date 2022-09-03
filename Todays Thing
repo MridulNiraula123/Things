@@ -1,0 +1,25 @@
+#1
+thistuple = ("apple", "banana", "cherry")
+length = len(thistuple)
+print(length)
+#2
+mytuple = ("apple", "banana", "cherry")
+print(type(mytuple))
+#3
+thistupla = ("apple",)
+print(type(thistupla))
+
+#NOT a tuple
+thistuplas = ("apple")
+print(type(thistuplas))
+#4
+tuple1 = ("apple", "banana", "cherry")
+tuple2 = (1, 5, 7, 9, 3)
+tuple3 = (True, False, False)
+#5
+tuple4 = ("abc", 34, True, 40, "male")
+#6
+mytuplase = ("apple", "banana", "cherry")
+print(type(mytuplase))
+#7
+print (tuple1,"and",tuple2,"and",tuple3,"and",tuple4)
