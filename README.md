@@ -1,7 +1,4 @@
 # Things
-# No Copying By Nirjal
-# Dumb Nirjal Not Allowed to Copy
-u can use it anytime
-full permission
-given except Nirjal
+# Yalll can use it with credit or none at all
+# u can copy (borrow) it anytime
 😁😁😁😁😁😁😁
