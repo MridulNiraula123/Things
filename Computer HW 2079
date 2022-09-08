@@ -1,0 +1,19 @@
+#instruction 1
+first_set = {"apple","banana","orange"}
+second_set = {"grapes","fig","dragon fruit"}
+print(first_set,"and",second_set)
+print("")
+#instruction 2
+second_set.add("blackberry")
+second_set.add("blueberry")
+print(second_set)
+print("")
+#instruction 3
+first_set.update(second_set)
+print(first_set)
+print("")
+#instruction 4
+first_set.remove("fig")
+print (first_set)
+print("")
+#end :-)
